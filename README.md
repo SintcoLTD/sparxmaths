@@ -18,7 +18,7 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 ## ⚡ Quick Setup **(5 SECONDS!!!)**
 
-This Requires **No** downloading or installing, Everthing is online.
+This Requires **No** downloading or installing, Everything is online.
 
 1. Visit [Bookmarklet](https://sparxmaths-bookmarklet.glitch.me/)
 2. Drag the "Sintco Sparxmaths Solver" link onto your bookmarks
@@ -53,7 +53,7 @@ To install Sintco Sparxmaths Sintco, you can follow the instructions for your pr
 - **Microsoft Edge**: [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-edge.md)
 - **OperaGX**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-operagx.md)
 - **FireFox**:        [Installation instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/install-firefox.md) (Indev)*
-- **Bookmarklet**:    [Setup Instructions](https://github.com/NajmAjmal/sparxmaths/blob/main/docs/bookmarklet.md)
+- **Bookmarklet**:    [Setup Instructions](https://github.com/SintcoLTD/sparxmaths/blob/main/docs/bookmarklet.md)
 
 ### Javascript Snippet
 
@@ -108,9 +108,9 @@ Statistics starting from: 04/06/2023
 **A**. This is not a Virus, this program aids in complete Sparxmaths. If you still feel unsure if this is a virus or not, you can put it through any antivirus program. You could use [VirusTotal](https://www.virustotal.com/) (Online Antivirus).
 
 
-#### Q: How do i turn off the Colour Themes.
+#### Q: How do I turn off the Colour Themes?
 
-**You cant turn off the colour themes, but you can you [Sintco Sparxmaths Solver Void Edition](https://github.com/SintcoLTD/sparxmaths-void). It is the same program, but with not colour themes.** [Original Question](https://github.com/SintcoLTD/sparxmaths/issues/11)
+**You can't turn off the colour themes, but you can you [Sintco Sparxmaths Solver Void Edition](https://github.com/SintcoLTD/sparxmaths-void). It is the same program, but with not colour themes.** [Original Question](https://github.com/SintcoLTD/sparxmaths/issues/11)
 
 
 ## 🗣 Feedback
