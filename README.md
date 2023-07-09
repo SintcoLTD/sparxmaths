@@ -37,7 +37,7 @@ Welcome to **Sintco Sparxmaths Solver**, a Free browser extension designed to as
 
 This Requires **No** downloading or installing, Everything is online.
 
-1. Visit [Bookmarklet](https://sparxmaths-bookmarklet.glitch.me/)
+1. Visit [Bookmarklet](https://sintcoltd.github.io/web/gh/sparxmaths/bookmarklets/sparxmaths-main.html)
 2. Drag the "Sintco Sparxmaths Solver" link onto your bookmarks
 3. Click on the bookmark when you are on https://yourschool.sparxmaths.uk/student/.
 4. It will load all of the [Features.](#-features)
@@ -146,6 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to [Glitch](https://glitch.com/) for hosting the "[sparxmaths.glitch.me](https://sparxmaths.glitch.me)" website
 - Thanks to [Shields.io](https://shields.io/) for providing the status badge in this README
+- Thanks to [Caio Rordrigues](https://github.com/caiorss) for [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/)
 - Thanks to all contributors who have helped improve this project
 
 
